@@ -1,6 +1,7 @@
 package hu.petrik.javaoop_14S;
 
 public final class Tulajdonos {
+
     private String nev;
 
     public Tulajdonos(String nev) {

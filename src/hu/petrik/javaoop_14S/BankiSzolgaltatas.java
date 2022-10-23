@@ -1,6 +1,6 @@
 package hu.petrik.javaoop_14S;
 
-public abstract class BankiSzolgaltatas {
+public abstract class BankiSzolgaltatas{
     private final Tulajdonos tulajdonos;
 
     public BankiSzolgaltatas(Tulajdonos tulajdonos) {
